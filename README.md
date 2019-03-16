@@ -22,3 +22,6 @@ Robot Commands
         place: initiate place position
         report: REPORT will announce the X,Y and F of the robot. This can be in any form, but standard output is sufficient
         right: RIGHT will rotate the robot 90 degrees in the specified direction without changing the position of the robot
+	
+Screenshot:
+![Capture](https://user-images.githubusercontent.com/28035876/54468678-b3a97c00-47c1-11e9-8c4b-64284cf4ce5b.JPG)
